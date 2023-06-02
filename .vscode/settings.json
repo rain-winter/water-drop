@@ -1,0 +1,8 @@
+{
+    "editor.codeActionsOnSave": {
+      // 整理 import 语句
+      "source.organizeImports": true,
+    },
+    "editor.formatOnSave": true
+  }
+  
